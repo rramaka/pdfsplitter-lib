@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <PackageId>PDFSplitter</PackageId>
+    <RootNamespace>bti.rpa.common</RootNamespace>
+    <Version>1.0.0</Version>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>IMD RPA Team</Authors>
+    <Company>RPA</Company>
+    <Product>RPA</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="itext7" Version="9.1.0" />
+    <PackageReference Include="itext7.bouncy-castle-fips-adapter" Version="9.1.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PDFSplitter</id>
+    <version>1.0.0</version>
+    <authors>IMD RPA Team</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="itext7" version="9.1.0" exclude="Build,Analyzers" />
+        <dependency id="itext7.bouncy-castle-fips-adapter" version="9.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/bin/Release/net9.0/pdfsplitter-lib.dll" target="lib/net9.0/pdfsplitter-lib.dll" />
+  </files>
+</package>

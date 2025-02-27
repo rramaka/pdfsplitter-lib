@@ -1,0 +1,12 @@
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/pdfsplitter-lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/pdfsplitter-lib.AssemblyInfoInputs.cache
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/pdfsplitter-lib.AssemblyInfo.cs
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/pdfsplitter-lib.csproj.CoreCompileInputs.cache
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/bin/Release/net9.0/pdfsplitter-lib.deps.json
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/bin/Release/net9.0/pdfsplitter-lib.dll
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/bin/Release/net9.0/pdfsplitter-lib.pdb
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/pdfsplitter-lib.csproj.AssemblyReference.cache
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/pdfsplitter-lib.dll
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/refint/pdfsplitter-lib.dll
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/pdfsplitter-lib.pdb
+/Users/rramaka/Projects/DOTNET/pdfsplitter-lib/obj/Release/net9.0/ref/pdfsplitter-lib.dll
